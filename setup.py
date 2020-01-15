@@ -14,12 +14,12 @@ setup(
 	url='https://github.com/santokalayil/santa',
 	author='Santo K Thomas',
 	author_email='santokalayil@gmail.com',
-	classifiers={
+	classifiers=[
 			'Development Status :: 3 - Beta',
 			'License :: OSI Approved :: MIT License',
 			'Programming Language :: Python :: 3',
 			'Programming Language :: Python :: 3.7',
 			'Programming Language :: Python :: 3.8',
 			'Operating System :: OS Independent'
-	},
+	],
 	)
