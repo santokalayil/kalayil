@@ -15,7 +15,6 @@ setup(
 	author='Santo K Thomas',
 	author_email='santokalayil@gmail.com',
 	classifiers=[
-			'Development Status :: 3 - Beta',
 			'License :: OSI Approved :: MIT License',
 			'Programming Language :: Python :: 3',
 			'Programming Language :: Python :: 3.7',
