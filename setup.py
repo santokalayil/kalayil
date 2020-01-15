@@ -4,12 +4,12 @@ with open("README.md",'r') as fh:
 	long_description = fh.read()
 
 setup(
-	name='santa',
+	name='santo',
 	version='0.1.0', # PEP440
 	description='Package for easier Machine Learning Workflow.',
 	long_description=long_description,
 	long_description_content_type="text/markdown",
-	py_modules=['santa'], # by Aus
+	py_modules=['santo'], # by Aus
 	package_dir ={'':'src'}, # by Aus.. BUT create a src folder in root foler inside which put my py file
 	url='https://github.com/santokalayil/santa',
 	author='Santo K Thomas',
