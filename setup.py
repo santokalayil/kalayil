@@ -11,7 +11,7 @@ setup(
 	long_description_content_type="text/markdown",
 	py_modules=['santa'], # by Aus
 	package_dir ={'':'src'}, # by Aus.. BUT create a src folder in root foler inside which put my py file
-
+	url='https://github.com/santokalayil/santa',
 	author='Santo K Thomas',
 	author_email='santokalayil@gmail.com',
 	classifiers={
