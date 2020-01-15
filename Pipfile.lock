@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "285cffb44fe500e162baaef731346c1636efe26107023bbd4f1136df885615ca"
+            "sha256": "8a5244c5f1c1e78bbc9bd4f0126225c9d0f60113ee85a829075ea056edbb5cef"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,10 @@
         ]
     },
     "default": {
+        "kalayil": {
+            "editable": true,
+            "path": "."
+        },
         "santa": {
             "editable": true,
             "path": "."

@@ -9,6 +9,7 @@ twine = "*"
 
 [packages]
 santa = {editable = true,path = "."}
+kalayil = {editable = true,path = "."}
 
 [requires]
 python_version = "3.7"
