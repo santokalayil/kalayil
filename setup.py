@@ -16,7 +16,7 @@ setup(
 	author_email='santokalayil@gmail.com',
 	classifiers={
 			'Development Status :: 3 - Beta',
-			'Intended Audience :: Data Scientists',
+			'Intended Audience :: Developers',
 			'License :: OSI Approved :: MIT License',
 			'Programming Language :: Python :: 3',
 			'Programming Language :: Python :: 3.7',
